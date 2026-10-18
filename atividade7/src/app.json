@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Lista de Alunos",
+    "slug": "lista-alunos-flatlist",
+    "scheme": "listaalunos",
+    "plugins": [
+      "expo-router"
+    ],
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.atividade.listaalunosflatlist"
+    }
+  }
+}
